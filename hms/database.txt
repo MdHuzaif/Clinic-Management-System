@@ -1,0 +1,18 @@
+DATABASE NAME:hmsdb
+
+
+TABLE:
+
+
+logintb:username,password
+
+
+doctorapp:fname,lname,email,contact,docapp,appdate,payment
+
+
+
+doctoradd:name
+
+
+
+medicines:dname,dcontact,cash,dealerdue,dpdate
